@@ -50,5 +50,3 @@ The system uses a Random Forest Classifier to differentiate between real and fak
 - Security assurance for autonomous vehicle communication  
 - Research on cyber-physical security in vehicular networks
 
-## Project Structure
-
